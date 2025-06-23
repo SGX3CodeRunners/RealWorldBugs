@@ -46,8 +46,6 @@ To reproduce the original study's analysis, follow these steps:
 
 ## Findings
 
-*(This section is for you to fill in after you have performed the reproduction and analysis. Here are some prompts to guide your writing: )*
-
 *   **Summary of Reproduction Success:** Were you able to successfully run all the code and reproduce the figures/results presented in the paper? What challenges did you face, if any?
 *   **Key Observations:** What were the most interesting or surprising findings from your re-analysis of the data?
 *   **Insights Gained:** How did this reproduction effort deepen your understanding of real-world ML bugs or reproducible science in general?
