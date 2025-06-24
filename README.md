@@ -130,7 +130,7 @@ We will conduct daily check-ins at [Time, e.g., 10:00 AM and 7:00 PM EST] via [P
 *   Adjustments to tasks or roles as needed.
 
 
-## 5. Risks & Mitigation
+## 6. Risks & Mitigation
 
 - Missing/incomplete benchmarks – Use archived copies, reconstruct from examples, or generate test data
 - Long model runtimes – Use small samples or pretrained results, rely on hosted APIs if needed
@@ -138,6 +138,6 @@ We will conduct daily check-ins at [Time, e.g., 10:00 AM and 7:00 PM EST] via [P
 - Time bottlenecks – Prioritize 2 core tasks and scale from there
 - Poster rejection or late submit – Submit early, check formatting guidelines, screenshot confirmation
 
-## 6. Conclusion
+## 7. Conclusion
 
 Team CodeRunners will explore and evaluate the reproducibility of LLM-based code understanding models as presented in Big Code is a Big Deal. By validating benchmarks, testing models, and scoring artifacts on reproducibility, the team will produce a clear, visual, and open-source summary of results, contributing to the broader reproducibility movement in software engineering research.
