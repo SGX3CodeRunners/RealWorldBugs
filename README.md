@@ -52,39 +52,6 @@ To reproduce the original study's analysis, follow these steps:
 *   **Discrepancies (if any):** Did you find any differences between your results and those reported in the paper? What might be the reasons for these discrepancies?
 *   **Future Work/Extensions:** What further analyses or experiments could be done based on this dataset or paper? (e.g., applying different analysis techniques, exploring specific bug types in more detail, expanding the dataset).
 
-## Contribution
-
-Conduct your own analysis, and submit pull requests with your findings or improvements to the reproduction process
-
-## License
-
-This project is released under the MIT License, aligning with the original dataset's license.
-
-## Project Plan
-
-### Team Roles
-
-*   **[Your Name/Role 1]:** [Brief description of responsibilities, e.g., Lead Reproducer, Code Analyst]
-*   **[Team Member Name/Role 2]:** [Brief description of responsibilities, e.g., Documentation Lead, Data Verifier]
-*   **[Team Member Name/Role 3]:** [Brief description of responsibilities, e.g., Presentation Designer, Research Assistant]
-
-### Key Tasks (Initial)
-
-1.  **Deep Dive into Paper:** Thoroughly read and understand the methodology, results, and claims of "A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization."
-2.  **Environment Setup:** Set up the necessary development environment, including Python, required libraries, and Jupyter. Address any dependency conflicts.
-3.  **Code Reproduction:** Execute the provided Jupyter notebooks (`mob_plots.ipynb`, `mob_study.ipynb`) and other scripts to reproduce the original analysis and figures.
-4.  **Data Verification:** Verify the integrity and usability of the provided datasets (`full_data_new.json`, `mob_pytorch.csv`, etc.).
-5.  **Findings Documentation:** Document successes, challenges, and any discrepancies encountered during the reproduction process in the \'Findings\' section of this README.
-
-### Daily Check-ins
-
-We will conduct daily check-ins at [Time, e.g., 10:00 AM EST] via [Platform, e.g., Google Meet/Slack] to discuss:
-
-*   Progress made since the last check-in.
-*   Any blockers or issues encountered (e.g., "we broke everything, help!").
-*   Plans for the upcoming day.
-*   Adjustments to tasks or roles as needed.
-
 ## Initial Evaluation of Reproducibility Artifact
 
 ### Paper Accessibility
@@ -106,3 +73,71 @@ We will conduct daily check-ins at [Time, e.g., 10:00 AM EST] via [Platform, e.g
 
 *   **Result:** [Success/Partial Success/Failure]
 *   **Notes:** [Describe your experience here. Did it work on the first try? What errors did you encounter? What steps did you take to troubleshoot?]
+## Contribution
+
+Conduct your own analysis, and submit pull requests with your findings or improvements to the reproduction process
+
+
+# Project Overview and Task Deliverables
+## 1. Project Overview
+
+- Project Name: A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization
+- Objectives: Evaluate the reproducibility of results reported in the IEEE paper using large language models (LLMs) on multiple code understanding tasks, including code summarization, code completion, and translation.
+- Scope:
+  - Build a GitHub repo with experiment tracking, setup, documentation, and results.
+  - Reproduce at least 2–3 major tasks and compare model performance (CodeT5, StarCoder, GPT-3.5/4).
+  - Create a web portal with a reproducibility scorecard and interactive visualizations.
+  - Submit a poster summarizing results to Gateways 2025.
+- Timeline: 5 days (SGX3 hackathon)
+
+## 2. Key Milestones and Deliverables
+
+| Milestone | Description | Due Date | Deliverables |
+|---|---|---|---|
+| Day 1 – Project Kickoff | Team formation, IEEE paper review, role assignment, GitHub setup with README and project goals | Day 1 | Intro slide, README.md, team roles, initial repo push |
+| Day 2 – Artifact Setup | Identify code/data, test reproducibility environment, begin small-scale runs | Day 2 | Artifact notes, initial tests (e.g., code summarization benchmark), logging results |
+| Day 3 – Scorecard Drafting | Define reproducibility metrics, evaluate 2–3 model-task pairs, log gaps or bugs | Day 3 | Reproducibility scorecard (draft), run logs, annotated test outputs |
+| Day 4 – Portal + Build | website/dashboard | Day 4 | Streamlit/Flask portal with charts, Poster to display reproducibility analysis and polish poster | poster draft (PDF/Canva/Slides) |
+| Day 5 – Final Submission | Submit poster, deliver final presentation, and commit all documentation | Day 5 | Final poster + presentation deck, updated repo, portal link or local deployment |
+
+## 3. Team Roles
+
+- Aaliyah:Experiment Engineer – Sets up tasks and runs models for evaluation
+- Arghavan:Model Analyst – Compares model outputs and scores reproducibility gaps
+- Holy:Portal Builder – Develops interactive dashboard or site
+- Copernic:Presenter – Creates visuals for the poster and slides
+- Iyana:Lead – Tracks goals, edits README, manages daily progress
+
+## 4. Resource Requirements
+
+- People: 5 members with experience in Python, LLMs, Hugging Face, or Docker
+- Tools:
+  - Python, PyTorch, Hugging Face Transformers
+  - Google Colab, Kaggle Kernels, or a cloud GPU (if needed)
+  - Flask/Streamlit for portal
+  - Canva or Google Slides for poster
+- Communication:
+  - Slack, Discord, or Teams for messaging
+  - Zoom for check-ins every day at 7
+
+## 5. Daily Check-ins
+
+We will conduct daily check-ins at [Time, e.g., 10:00 AM and 7:00 PM EST] via [Platform, e.g., Google Meet/Slack] to discuss:
+
+*   Progress made since the last check-in.
+*   Any blockers or issues encountered (e.g., "we broke everything, help!").
+*   Plans for the upcoming day.
+*   Adjustments to tasks or roles as needed.
+
+
+## 5. Risks & Mitigation
+
+- Missing/incomplete benchmarks – Use archived copies, reconstruct from examples, or generate test data
+- Long model runtimes – Use small samples or pretrained results, rely on hosted APIs if needed
+- Tool mismatch – Use virtual environments or Docker to isolate dependencies
+- Time bottlenecks – Prioritize 2 core tasks and scale from there
+- Poster rejection or late submit – Submit early, check formatting guidelines, screenshot confirmation
+
+## 6. Conclusion
+
+Team CodeRunners will explore and evaluate the reproducibility of LLM-based code understanding models as presented in Big Code is a Big Deal. By validating benchmarks, testing models, and scoring artifacts on reproducibility, the team will produce a clear, visual, and open-source summary of results, contributing to the broader reproducibility movement in software engineering research.
