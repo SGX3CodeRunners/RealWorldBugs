@@ -41,6 +41,75 @@ To assess reproducibility across all papers:
    - Reproduction fidelity
 
 5. **Portal Integration:** Sync results to the team’s visualization portal for tracking and comparison.
+---
+## 📋 Reproducibility Scorecard for HPC/AI Papers
+
+To evaluate the reproducibility of HPC/AI research papers in computer science and data science, a structured scorecard assesses technical artifacts, documentation quality, and environmental reproducibility. This framework is informed by recent reproducibility benchmarks and HPC/AI research challenges.
+
+### 🔢 Maximum Score: 100 Points
+
+---
+
+### 🧱 1. Code & Environment (40 points)
+
+| Criteria | Points |
+|---------|--------|
+| **Code Availability & Quality** ||
+| Open-source license (MIT/APACHE/GPL) | 5 |
+| Docker/Containerization (Dockerfile, Singularity) | 10 |
+| Dependency Management (requirements.txt, conda.yml, etc.) | 10 |
+| Build Instructions (Clear README with install/runtime) | 10 |
+| Specialized Hardware Support (e.g., SLURM, CUDA) | 5 |
+
+| **Reproducibility Testing** ||
+| CI/CD Pipelines (e.g., GitHub Actions) | 5 |
+| Version Control (repo with aligned commits) | 5 |
+
+---
+
+### 📑 2. Documentation & Transparency (30 points)
+
+| Criteria | Points |
+|---------|--------|
+| **Artifact Documentation** ||
+| Comprehensive README (includes paper claims, setup) | 10 |
+| API/Data Schema Docs (Swagger/OpenAPI/comments) | 5 |
+| Reproducibility Badge (ACM Artifacts, FAIR, etc.) | 5 |
+
+| **Reproducibility Claims** ||
+| Runtime Instructions (e.g., run.sh) | 5 |
+| Result Validation (logs, checksums, outputs) | 5 |
+
+---
+
+### 📊 3. Data & Model Reuse (20 points)
+
+| Criteria | Points |
+|---------|--------|
+| Public Dataset Links (open URLs) | 10 |
+| Data Preprocessing Scripts (cleaning/normalization) | 5 |
+| Model Weights (Hugging Face/MLflow checkpoints) | 5 |
+
+---
+
+### 🌐 4. Community Engagement (10 points)
+
+| Criteria | Points |
+|---------|--------|
+| Issue Tracking (e.g., GitHub Issues) | 5 |
+| Discussion Forum (Slack, Discord, Matrix) | 5 |
+
+---
+
+### 📈 Scoring Example
+
+| Category               | Max Points | Example Score | %
+|------------------------|------------|----------------|------|
+| Code & Environment     | 40         | 28             | 70% |
+| Documentation          | 30         | 22             | 73% |
+| Data & Model Reuse     | 20         | 15             | 75% |
+| Community Engagement   | 10         | 8              | 80% |
+| **Total**              | **100**    | **73/100**     | **73%** |
 
 ---
 
@@ -125,7 +194,7 @@ Submit a pull request or open an issue to get involved.
 
 ## 5. Daily Check-ins
 
-We hold daily check-ins via [Slack or Zoom] at 10:00 AM and 7:00 PM EST to:
+We hold daily check-ins via [Slack or Zoom] at 10:00 AM, 3:00 PM, and 7:00 PM EST to:
 
 - Report progress
 - Discuss blockers
