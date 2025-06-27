@@ -54,20 +54,34 @@ We assess each paper using the following points:
 
 ---
 
-## 📊 Reproducibility Scorecard (8 Criteria × 1–5 Scale)
+## 📊 Reproducibility Scorecard Criteria
 
-| Category                | 1 (Poor)                         | 5 (Excellent)                         |
-|------------------------|----------------------------------|----------------------------------------|
-| **Code Access**        | No code provided                 | GitHub repo with license               |
-| **Environment Setup**  | No install instructions          | Docker or venv setup                   |
-| **Dependency Details** | No requirements mentioned        | requirements.txt, pipfile, etc.        |
-| **Data Access**        | No dataset access                | Public URL, licensing clear            |
-| **Result Verification**| No results                       | Logs, eval metrics shown               |
-| **Reproduction**       | No run instructions              | run.sh, notebooks, containers          |
-| **Citation Quality**   | No reference                     | DOI, BibTeX, or arXiv                  |
-| **Testability**        | No testing tools                 | test dir, pytest, CI/CD badge          |
+Each paper was evaluated using the following **8 reproducibility metrics**, with scores from **0 (not present)** to **2 (fully addressed)** unless otherwise noted.
 
-> 🔢 **Max Score**: 40 points → Very Low, Low, Moderate, High, Excellent
+| Metric                          | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **1. Paper Availability**       | Whether the paper was downloadable and accessible for review.              |
+| **2. Availability of Code and Software** | Whether code repositories or software links were included.             |
+| **3. Availability of Datasets** | Whether the dataset(s) used in the study were available and referenced.    |
+| **4. Computer Requirements**    | Clarity about CPU, RAM, OS, or system dependencies needed to reproduce.    |
+| **5. GPU Requirements**         | Clarity about GPU/TPU needs, CUDA versions, or compute capabilities.        |
+| **6. Documentation Quality**    | Existence of README, usage instructions, or inline comments.               |
+| **7. Ease of Setup**            | How easily a user could install or configure the environment.              |
+| **8. Reproducibility of Results** | Whether the paper reports verifiable output, metrics, or comparisons.     |
+
+> **Note**: A ninth category, **Overall Rating**, was manually assigned after reviewing all other scores and reviewer notes.
+
+---
+
+### 🎯 Scoring Scale
+
+- **0** = Not addressed  
+- **1** = Mentioned, but incomplete or unclear  
+- **2** = Clearly provided and actionable  
+
+---
+
+These criteria reflect the practical challenges of reproducing real-world research artifacts, especially for AI/ML papers involving code, data, and hardware.
 
 ---
 
