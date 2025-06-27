@@ -14,7 +14,7 @@ Welcome to the CodeRunners' submission for HackHPC @ ADMI 2025. This project inv
 
 ---
 ## Poster Preview
-<p align="center"> <img src="poster_preview.png" alt="HackHPC Poster Preview" width="700"> </p>
+<p align="center"> <img src="poster.png" alt="HackHPC Poster Preview" width="700"> </p>
 
 ---
 
