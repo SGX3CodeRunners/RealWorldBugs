@@ -93,18 +93,6 @@ A few sample papers evaluated were:
 - [EXO Paravirtualization](https://github.com/nicexlab/exo)
 - [Multicast-Based Allgather](https://github.com/spcl/multicast-based-allgather)
 
----
-
-## Contribution
-
-We welcome contributors! Team members and external collaborators are encouraged to:
-
-- Conduct reproduction attempts for additional papers.
-- Submit new scorecard entries.
-- Improve automation or analysis tools.
-- Suggest features for the dashboard or portal.
-
-Submit a pull request or open an issue to get involved.
 
 ---
 ## 👥 Meet the Team
@@ -119,7 +107,7 @@ Submit a pull request or open an issue to get involved.
 
 ---
 
-## 3. Team Roles
+## Team Roles
 
 - **Aaliyah:** Experiment Engineer – Sets up tasks and runs model reproductions
 - **Arghavan:** Model Analyst – Compares outputs, fills scorecard gaps
@@ -129,7 +117,7 @@ Submit a pull request or open an issue to get involved.
 
 ---
 
-## 4. Resource Requirements
+## Resource Requirements
 
 - **People:** 5 team members with skills in Python, Hugging Face, Git, and Docker
 - **Tools:** 
@@ -141,7 +129,7 @@ Submit a pull request or open an issue to get involved.
 
 ---
 
-## 5. Daily Check-ins
+## Daily Check-ins
 
 We hold daily check-ins via [Slack or Zoom] at 10:00 AM, 3:00 PM, and 7:00 PM EST to:
 
@@ -152,7 +140,7 @@ We hold daily check-ins via [Slack or Zoom] at 10:00 AM, 3:00 PM, and 7:00 PM ES
 
 ---
 
-## 6. Risks & Mitigation
+## Risks & Mitigation
 
 | Risk | Mitigation |
 |------|------------|
@@ -163,8 +151,18 @@ We hold daily check-ins via [Slack or Zoom] at 10:00 AM, 3:00 PM, and 7:00 PM ES
 | Poster deadline issues | Submit early drafts, verify formatting ahead of time |
 
 ---
+## Conclusion
 
-## 7. Conclusion
+Team CodeRunners is tackling a large-scale, real-world challenge: **evaluating reproducibility across 189 cutting-edge research papers**. Our process is thorough, transparent, and open-source contributing to the larger reproducibility conversation in software engineering and LLM research. Our portal and final poster will serve as a reference for future researchers navigating reproducibility in ML research.
 
-Team CodeRunners is tackling a large-scale, real-world challenge: **evaluating reproducibility across 189 cutting-edge research papers**. Our process is thorough, transparent, and open-source—contributing to the larger reproducibility conversation in software engineering and LLM research. Our portal and final poster will serve as a reference for future researchers navigating reproducibility in ML research.
+---
+## Contribution
 
+We welcome contributors! Team members and external collaborators are encouraged to:
+
+- Conduct reproduction attempts for additional papers.
+- Submit new scorecard entries.
+- Improve automation or analysis tools.
+- Suggest features for the dashboard or portal.
+
+Submit a pull request or open an issue to get involved.
