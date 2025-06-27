@@ -1,0 +1,1136 @@
+[
+    {
+        "id": 13,
+        "title": "One Adapter for All Programming Languages?\nAdapter Tuning for Code Search and Summarization",
+        "artifact_url": "https://github.com/wangdeze18/Multilingual-Adapter-for-SE",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00013"
+    },
+    {
+        "id": 14,
+        "title": "CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back",
+        "artifact_url": "https://github.com/ZJU-CTAG/CCRep",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00014"
+    },
+    {
+        "id": 15,
+        "title": "Keeping Pace with Ever-Increasing Data: Towards\nContinual Learning of Code Intelligence Models",
+        "artifact_url": "https://github.com/ReliableCoding/REPEAT",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00015"
+    },
+    {
+        "id": 16,
+        "title": "Detecting JVM JIT Compiler Bugs via Exploring\nTwo-Dimensional Input Spaces",
+        "artifact_url": "https://github.com/CGCL-codes/JOpFuzzer",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00016"
+    },
+    {
+        "id": 17,
+        "title": "JITfuzz: Coverage-guided Fuzzing for JVM\nJust-in-Time Compilers",
+        "artifact_url": "https://github.com/lochnagarr/JITFuzz",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00017"
+    },
+    {
+        "id": 18,
+        "title": "Validating SMT Solvers via Skeleton Enumeration\nEmpowered by Historical Bug-Triggering Inputs",
+        "artifact_url": "https://github.com/CGCL-codes/HistFuzz",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00018"
+    },
+    {
+        "id": 19,
+        "title": "Regression Fuzzing for Deep Learning Systems",
+        "artifact_url": "https://github.com/youhanmo/DRFuzz",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00019"
+    },
+    {
+        "id": 20,
+        "title": "Operand-Variation-Oriented Differential Analysis for Fuzzing Binding Calls in PDF Readers",
+        "artifact_url": "https://github.com/TypeOracle/TypeOracleSrc",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00020"
+    },
+    {
+        "id": 22,
+        "title": "Data Quality for Software Vulnerability Datasets",
+        "artifact_url": "https://\ufb01gshare.com/articles/software/Reproduction_Package_for_Data_Quality_for_Software_Vulnerability_Datasets/20499924",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00022"
+    },
+    {
+        "id": 23,
+        "title": "Do code refactorings in\ufb02uence the merge effort?",
+        "artifact_url": "https://github.com/gems-uff/refactoring-merge",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00023"
+    },
+    {
+        "id": 24,
+        "title": "A Comprehensive Study of Real-World Bugs\nin Machine Learning Model Optimization",
+        "artifact_url": "https://github.com/MOB2022/MOB-dataset",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00024"
+    },
+    {
+        "id": 25,
+        "title": "Evaluating the Impact of Experimental Assumptions in Automated Fault Localization",
+        "artifact_url": "https://figshare.com/articles/conference_contribution/Debugging_Assumptions_Artifact/21786743",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00025"
+    },
+    {
+        "id": 26,
+        "title": "Locating Framework-speci\ufb01c Crashing Faults with\nCompact and Explainable Candidate Set",
+        "artifact_url": "https://github.com/hanada31/CrashTracker",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00026"
+    },
+    {
+        "id": 27,
+        "title": "PExReport: Automatic Creation of Pruned\nExecutable Cross-Project Failure Reports",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7578677",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00027"
+    },
+    {
+        "id": 28,
+        "title": "RAT: A Refactoring-Aware Traceability Model for\nBug Localization",
+        "artifact_url": "https://github.com/feifeiniu-se/traceability",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00028"
+    },
+    {
+        "id": 29,
+        "title": "How Do We Read Formal Claims? Eye-Tracking\nand the Cognition of Proofs about Algorithms",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7626901",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00029"
+    },
+    {
+        "id": 30,
+        "title": "Which of My Assumptions are Unnecessary for\nRealizability and Why Should I Care?",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7528202",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00030"
+    },
+    {
+        "id": 31,
+        "title": "UPCY: Safely Updating Outdated Dependencies",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7037673",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00031"
+    },
+    {
+        "id": 32,
+        "title": "APICAD: Augmenting API Misuse Detection\nthrough Specifi cations from Code and Documents",
+        "artifact_url": "https://github.com/x2018/apicad_public",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00032"
+    },
+    {
+        "id": 33,
+        "title": "Compatibility Issue Detection for Android Apps\nBased on Path-Sensitive Semantic Analysis",
+        "artifact_url": "https://github.com/PSDroid2022",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00033"
+    },
+    {
+        "id": 34,
+        "title": "OSSFP: Precise and Scalable C/C++ Third-Party\nLibrary Detection using Fingerprinting Functions",
+        "artifact_url": "https://sites.google.com/view/icse2023sca",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00034"
+    },
+    {
+        "id": 35,
+        "title": "SMARTMARK: Software Watermarking Scheme for Smart Contracts",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.21966875.v1",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00035"
+    },
+    {
+        "id": 36,
+        "title": "Turn the Rudder: A Beacon of Reentrancy\nDetection for Smart Contracts on Ethereum",
+        "artifact_url": "https://github.com/InPlusLab/ReentrancyStudy-Data",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00036"
+    },
+    {
+        "id": 37,
+        "title": "BSHUNTER: Detecting and Tracing Defects of\nBitcoin Scripts",
+        "artifact_url": "https://github.com/InPlusLab/bshunter-btcd",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00037"
+    },
+    {
+        "id": 38,
+        "title": "Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors",
+        "artifact_url": "https://figshare.com/s/5cedff387200ebc379cb",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00038"
+    },
+    {
+        "id": 39,
+        "title": "Comparison and Evaluation of Clone Detection\nTechniques with Different Code Representations",
+        "artifact_url": "https://github.com/TACC-Code/TACC",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00039"
+    },
+    {
+        "id": 40,
+        "title": "Learning Graph-based Code Representations for\nSource-level Functional Similarity Detection",
+        "artifact_url": "https://github.com/jun-zeng/Tailor",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00040"
+    },
+    {
+        "id": 41,
+        "title": "The Smelly Eight: An Empirical Study on the\nPrevalence of Code Smells in Quantum Computing",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7625865",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00041"
+    },
+    {
+        "id": 42,
+        "title": "Reachable Coverage: Estimating Saturation in Fuzzing",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7571359",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00042"
+    },
+    {
+        "id": 43,
+        "title": "Learning Seed-Adaptive Mutation Strategies for\nGreybox Fuzzing",
+        "artifact_url": "https://github.com/kupl/SeamFuzz-public",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00043"
+    },
+    {
+        "id": 44,
+        "title": "Improving Java Deserialization Gadget Chain\nMining via Overriding-Guided Object Generation",
+        "artifact_url": "https://github.com/GCMiner/GCMiner",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00044"
+    },
+    {
+        "id": 45,
+        "title": "Evaluating and Improving Hybrid Fuzzing",
+        "artifact_url": "https://github.com/Tricker-z/CoFuzz",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00045"
+    },
+    {
+        "id": 46,
+        "title": "Robusti\ufb01cation of Behavioral Designs against\nEnvironmental Deviations",
+        "artifact_url": "https://github.com/cmu-soda/fortis-core",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00046"
+    },
+    {
+        "id": 47,
+        "title": "A Qualitative Study on the Implementation Design\nDecisions of Developers",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.21820140",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00047"
+    },
+    {
+        "id": 48,
+        "title": "BFTDETECTOR: Automatic Detection of Business Flow Tampering for Digital Content Service",
+        "artifact_url": "https://github.com/jspaper22/bftdetector",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00048"
+    },
+    {
+        "id": 49,
+        "title": "FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing",
+        "artifact_url": "https://zenodo.org/record/7536416#.Y9yIZOxBwUE",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00049"
+    },
+    {
+        "id": 50,
+        "title": "PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps",
+        "artifact_url": "https://doi.org/10.5281/zenodo.5442986",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00050"
+    },
+    {
+        "id": 51,
+        "title": "AdHere: Automated Detection and Repair of Intrusive Ads",
+        "artifact_url": "https://osf.io/s8mhw/?viewonly=42a1f52903964e68836faa76f84a180f",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00051"
+    },
+    {
+        "id": 52,
+        "title": "Bad Snakes: Understanding and Improving Python Package Index Malware Scanning",
+        "artifact_url": "https://github.com/lyvd/bad-snakes-icse23-artifacts",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00052"
+    },
+    {
+        "id": 53,
+        "title": "FedDebug: Systematic Debugging for Federated Learning Applications",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7578656",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00053"
+    },
+    {
+        "id": 55,
+        "title": "CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7321934",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00055"
+    },
+    {
+        "id": 56,
+        "title": "ECSTATIC: An Extensible Framework for Testing and Debugging Configurable Static Analysis",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7577909",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00056"
+    },
+    {
+        "id": 57,
+        "title": "Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis",
+        "artifact_url": "https://resess.github.io/artifacts/InPreSS/",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00057"
+    },
+    {
+        "id": 58,
+        "title": "Does the Stream API Benefit from Special Debugging Facilities? A Controlled Experiment on Loops and Streams with Specific Debugger",
+        "artifact_url": "https://drive.google.com/drive/folders/14Eg4krlQWZO8yrZlWMp325GGn42GtC2h",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00058"
+    },
+    {
+        "id": 59,
+        "title": "F ONTE : Finding Bug Inducing Commits from Failures",
+        "artifact_url": "https://github.com/coinse/fonte",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00059"
+    },
+    {
+        "id": 60,
+        "title": "RepresentThemAll: A Universal Learning Representation of Bug Reports",
+        "artifact_url": "https://github.com/ICSE-2023/RepresentThemALL",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00060"
+    },
+    {
+        "id": 61,
+        "title": "Demystifying Exploitable Bugs in Smart Contracts",
+        "artifact_url": "https://github.com/ZhangZhuoSJTU/Web3Bugs",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00061"
+    },
+    {
+        "id": 62,
+        "title": "Understanding and Detecting On-the-Fly Configuration Bugs",
+        "artifact_url": "https://github.com/wangteng13/Parachute",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00062"
+    },
+    {
+        "id": 63,
+        "title": "Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation",
+        "artifact_url": "https://bit.ly/3H7R1aI",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00063"
+    },
+    {
+        "id": 64,
+        "title": "Is It Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues",
+        "artifact_url": "https://figshare.com/s/addd697d581c82f96f9a",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00064"
+    },
+    {
+        "id": 65,
+        "title": "From Organizations to Individuals: Psychoactive Substance Use By Professional Programmers",
+        "artifact_url": "https://github.com/CelloCorgi/ICSE2023_Psychoactive",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00065"
+    },
+    {
+        "id": 66,
+        "title": "On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study",
+        "artifact_url": "https://doi.org/10.5281/zenodo.6526833",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00066"
+    },
+    {
+        "id": 67,
+        "title": "Socio-Technical Anti-Patterns in Building ML-Enabled Software",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7520777",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00067"
+    },
+    {
+        "id": 68,
+        "title": "Moving on from the software engineers\u2019 gambit: an approach to support the defense of software effort estimates",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.20736844.v1",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00068"
+    },
+    {
+        "id": 69,
+        "title": "Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7573490",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00069"
+    },
+    {
+        "id": 70,
+        "title": "Triggers for Reactive Synthesis Specifications",
+        "artifact_url": "https://github.com/SpectraSynthesizer",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00070"
+    },
+    {
+        "id": 71,
+        "title": "Using Reactive Synthesis: An End-to-End Exploratory Case Study",
+        "artifact_url": "https://github.com/SpectraSynthesizer",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00071"
+    },
+    {
+        "id": 73,
+        "title": "Developer-Intent Driven Code Comment Generation",
+        "artifact_url": "https://github.com/ICSE-DOME/DOME",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00073"
+    },
+    {
+        "id": 74,
+        "title": "Data Quality Matters: A Case Study of Obsolete Comment Detection",
+        "artifact_url": "https://github.com/SoftWiser-group/AdvOC",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00074"
+    },
+    {
+        "id": 75,
+        "title": "Revisiting Learning-based Commit Message Generation",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7042270",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00075"
+    },
+    {
+        "id": 76,
+        "title": "Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality",
+        "artifact_url": "https://zenodo.org/record/7042943#.YxG",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00076"
+    },
+    {
+        "id": 77,
+        "title": "PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing",
+        "artifact_url": "https://github.com/senseconcordia/PILARData_ICSE2023.git",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00077"
+    },
+    {
+        "id": 78,
+        "title": "Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction",
+        "artifact_url": "https://github.com/ginolzh/Variable_Aware_Log_Abstraction",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00078"
+    },
+    {
+        "id": 79,
+        "title": "On the Temporal Relations between Logging and Code",
+        "artifact_url": "https://github.com/senseconcordia/TempoLo-replication-package",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00079"
+    },
+    {
+        "id": 81,
+        "title": "When to Say What: Learning to Find Condition-Message Inconsistencies",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7577795",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00081"
+    },
+    {
+        "id": 82,
+        "title": "SemParser: A Semantic Parser for Log Analytics",
+        "artifact_url": "https://github.com/YintongHuo/SemParser",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00082"
+    },
+    {
+        "id": 83,
+        "title": "BADGE: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing",
+        "artifact_url": "https://github.com/ranpku/Badge",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00083"
+    },
+    {
+        "id": 84,
+        "title": "Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference",
+        "artifact_url": "https://github.com/sidongfeng/AdaT",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00084"
+    },
+    {
+        "id": 85,
+        "title": "C ODA M OSA : Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models",
+        "artifact_url": "http://github.com/microsoft/codamosa",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00085"
+    },
+    {
+        "id": 86,
+        "title": "TAINT M INI : Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis",
+        "artifact_url": "https://github.com/OSUSecLab/TaintMini",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00086"
+    },
+    {
+        "id": 87,
+        "title": "AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities",
+        "artifact_url": "https://github.com/DependableSystemsLab/Achecker",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00087"
+    },
+    {
+        "id": 88,
+        "title": "Fine-grained Commit-level Vulnerability Type Prediction by CWE Tree Structure",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.19727050",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00088"
+    },
+    {
+        "id": 89,
+        "title": "Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation",
+        "artifact_url": "https://github.com/anonymous-dev904/aspect_generation",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00089"
+    },
+    {
+        "id": 90,
+        "title": "Reusing Deep Neural Network Models through Model Re-engineering",
+        "artifact_url": "https://github.com/qibinhang/SeaM",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00090"
+    },
+    {
+        "id": 91,
+        "title": "P Y E VOLVE : Automating Frequent Code Changes in Python ML Systems",
+        "artifact_url": "https://pythoninfer.github.io",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00091"
+    },
+    {
+        "id": 93,
+        "title": "Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement",
+        "artifact_url": "https://huggingface.co/datasets/Anonymous1234/RNNDecomposition/tree/main",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00093"
+    },
+    {
+        "id": 94,
+        "title": "CHRONOS: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports",
+        "artifact_url": "https://figshare.com/articles/software/Chronos-ICSE23/22082075",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00094"
+    },
+    {
+        "id": 95,
+        "title": "Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem",
+        "artifact_url": "https://github.com/CGCL-codes/MavenEcoSysResearch",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00095"
+    },
+    {
+        "id": 96,
+        "title": "S EC B ENCH . JS : An Executable Security Benchmark Suite for Server-Side JavaScript",
+        "artifact_url": "https://github.com/cristianstaicu/SecBench.js",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00096"
+    },
+    {
+        "id": 97,
+        "title": "On Privacy Weaknesses and Vulnerabilities in Software Systems",
+        "artifact_url": "http://doi.org/10.6084/m9.figshare.21922731",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00097"
+    },
+    {
+        "id": 98,
+        "title": "Detecting Exception Handling Bugs in C++ Programs",
+        "artifact_url": "https://github.com/ewfsdvvr",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00098"
+    },
+    {
+        "id": 99,
+        "title": "Learning to Boost Disjunctive Static Bug-Finders",
+        "artifact_url": "https://github.com/facebookresearch/data",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00099"
+    },
+    {
+        "id": 101,
+        "title": "Detecting Isolation Bugs via Transaction Oracle Construction",
+        "artifact_url": "https://github.com/tcse-iscas/Troc",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00101"
+    },
+    {
+        "id": 102,
+        "title": "SmallRace: Static Race Detection for Dynamic Languages - A Case on Smalltalk",
+        "artifact_url": "https://github.com/parasol-aser/smallrace-open-source",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00102"
+    },
+    {
+        "id": 103,
+        "title": "\u201cSTILL AROUND\u201d: Experiences and Survival Strategies of Veteran Women Software Developers",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7491581",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00103"
+    },
+    {
+        "id": 104,
+        "title": "When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study",
+        "artifact_url": "https://github.com/testingautomated-usi/tig-validity-icse23",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00104"
+    },
+    {
+        "id": 105,
+        "title": "Fuzzing Automatic Differentiation in Deep-Learning Libraries",
+        "artifact_url": "https://github.com/ise-uiuc/NablaFuzz",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00105"
+    },
+    {
+        "id": 106,
+        "title": "Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective",
+        "artifact_url": "https://github.com/Lizn-zn/Uncertainty-Alignment",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00106"
+    },
+    {
+        "id": 107,
+        "title": "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion",
+        "artifact_url": "https://github.com/Yuanyuan-Yuan/NeuraL-Coverage",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00107"
+    },
+    {
+        "id": 108,
+        "title": "Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7042929",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00108"
+    },
+    {
+        "id": 109,
+        "title": "Better Automatic Program Repair by Using Bug Reports and Tests Together",
+        "artifact_url": "https://doi.org/10.7910/DVN/OHMYAK",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00109"
+    },
+    {
+        "id": 110,
+        "title": "CCT EST : Testing and Repairing Code Completion Systems",
+        "artifact_url": "https://sites.google.com/view/cctest-info",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00110"
+    },
+    {
+        "id": 111,
+        "title": "KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair",
+        "artifact_url": "https://github.com/lin-tan/knod",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00111"
+    },
+    {
+        "id": 112,
+        "title": "Rete: Learning Namespace Representation for Program Repair",
+        "artifact_url": "https://github.com/norhh/Rete",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00112"
+    },
+    {
+        "id": 113,
+        "title": "AI-based Question Answering Assistance for Analyzing Natural-language Requirements",
+        "artifact_url": "https://gitlab.uni.lu/sezzini/QAssist/",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00113"
+    },
+    {
+        "id": 114,
+        "title": "Strategies, Benefits and Challenges of App Store-inspired Requirements Elicitation",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7578078",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00114"
+    },
+    {
+        "id": 116,
+        "title": "Compiling Parallel Symbolic Execution with Continuations",
+        "artifact_url": "https://continuation.passing.style/GenSym",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00116"
+    },
+    {
+        "id": 117,
+        "title": "Verifying Data Constraint Equivalence in FinTech Systems",
+        "artifact_url": "https://github.com/EqDAC/EqDACTool",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00117"
+    },
+    {
+        "id": 119,
+        "title": "Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing",
+        "artifact_url": "https://github.com/franklinbill/Qtypist",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00119"
+    },
+    {
+        "id": 120,
+        "title": "Detecting Dialog-Related Keyboard Navigation Failures in Web Applications",
+        "artifact_url": "https://sites.google.com/usc.edu/lotus/home",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00120"
+    },
+    {
+        "id": 121,
+        "title": "C OLUMBUS : Android App Testing Through Systematic Callback Exploration",
+        "artifact_url": "https://github.com/ucsb-seclab/columbus",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00121"
+    },
+    {
+        "id": 122,
+        "title": "GameRTS: A Regression Testing Framework for Video Games",
+        "artifact_url": "https://sites.google.com/view/gamerts",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00122"
+    },
+    {
+        "id": 124,
+        "title": "Flexible and Optimal Dependency Management via Max-SMT",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7554407",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00124"
+    },
+    {
+        "id": 125,
+        "title": "Impact of Code Language Models on Automated Program Repair",
+        "artifact_url": "https://github.com/lin-tan/clm",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00125"
+    },
+    {
+        "id": 126,
+        "title": "Tare: Type-Aware Neural Program Repair",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7029404",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00126"
+    },
+    {
+        "id": 127,
+        "title": "Template-based Neural Program Repair",
+        "artifact_url": "https://github.com/mxx1219/TENURE",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00127"
+    },
+    {
+        "id": 128,
+        "title": "Automated Repair of Programs from Large Language Models",
+        "artifact_url": "https://github.com/zhiyufan/apr4codex",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00128"
+    },
+    {
+        "id": 131,
+        "title": "Testability Refactoring in Pull Requests: Patterns and Trends",
+        "artifact_url": "https://github.com/icse2023preich/testability-refactoring-patterns",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00131"
+    },
+    {
+        "id": 132,
+        "title": "Usability-Oriented Design of Liquid Types for Java",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7545674",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00132"
+    },
+    {
+        "id": 133,
+        "title": "Towards Understanding Fairness and its Composition in Ensemble Machine Learning",
+        "artifact_url": "https://github.com/UsmanGohar/FairEnsemble",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00133"
+    },
+    {
+        "id": 134,
+        "title": "Fairify: Fairness Verification of Neural Networks",
+        "artifact_url": "https://github.com/sumonbis/Fairify",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00134"
+    },
+    {
+        "id": 135,
+        "title": "Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models",
+        "artifact_url": "https://github.com/Jirigesi/BGMD_MAPS",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00135"
+    },
+    {
+        "id": 136,
+        "title": "Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks",
+        "artifact_url": "https://github.com/armanunix/Fairness-testing",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00136"
+    },
+    {
+        "id": 137,
+        "title": "Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7932665",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00137"
+    },
+    {
+        "id": 138,
+        "title": "Cross-Domain Requirements Linking via Adversarial-based Domain Adaptation",
+        "artifact_url": "https://github.com/czycurefun/Requirement-Linking-Adversial-Adaptation",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00138"
+    },
+    {
+        "id": 141,
+        "title": "What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?",
+        "artifact_url": "https://figshare.com/s/edebdcb73def3bdb7cfb",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00141"
+    },
+    {
+        "id": 142,
+        "title": "Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX",
+        "artifact_url": "https://github.com/apache/incubator-teaclave-java-tee-sdk",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00142"
+    },
+    {
+        "id": 143,
+        "title": "Keyword Extraction From Specification Documents for Planning Security Mechanisms",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7578926",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00143"
+    },
+    {
+        "id": 144,
+        "title": "Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization",
+        "artifact_url": "https://github.com/xjtu-enre/DepFCD",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00144"
+    },
+    {
+        "id": 145,
+        "title": "Test Selection for Unified Regression Testing",
+        "artifact_url": "https://github.com/xlab-uiuc/uRTS-ae",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00145"
+    },
+    {
+        "id": 146,
+        "title": "ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7455766",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00146"
+    },
+    {
+        "id": 147,
+        "title": "Measuring and Mitigating Gaps in Structural Testing",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.21950552.v12",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00147"
+    },
+    {
+        "id": 148,
+        "title": "Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention",
+        "artifact_url": "https://github.com/BEbillionaireUSD/Hades/",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00148"
+    },
+    {
+        "id": 150,
+        "title": "Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data",
+        "artifact_url": "https://github.com/BEbillionaireUSD/Eadro",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00150"
+    },
+    {
+        "id": 151,
+        "title": "LogReducer: Identify and Reduce Log Hotspots in Kernel on the Fly",
+        "artifact_url": "https://github.com/IntelligentDDS/LogReducer",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00151"
+    },
+    {
+        "id": 152,
+        "title": "Aries: Efficient Testing of Deep Neural Networks via Labeling-Free Accuracy Estimation",
+        "artifact_url": "https://github.com/wellido/Aries",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00152"
+    },
+    {
+        "id": 153,
+        "title": "CC: Causality-Aware Coverage Criterion for Deep Neural Networks",
+        "artifact_url": "https://anonymous.4open.science/r/DLCC-4000/",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00153"
+    },
+    {
+        "id": 154,
+        "title": "Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests",
+        "artifact_url": "https://github.com/ise-uiuc/FASER",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00154"
+    },
+    {
+        "id": 155,
+        "title": "Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.20526867",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00155"
+    },
+    {
+        "id": 156,
+        "title": "Reliability Assurance for Deep Neural Network Architectures Against Numerical Defects",
+        "artifact_url": "https://github.com/llylly/RANUM",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00156"
+    },
+    {
+        "id": 158,
+        "title": "Automated Summarization of Stack Overflow Posts",
+        "artifact_url": "https://github.com/BonanKou/ASSORT-Automatic-Summarization-of-Stack-Overflow-Posts",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00158"
+    },
+    {
+        "id": 159,
+        "title": "Semi-Automatic, Inline and Collaborative Web Page Code Curations",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7622496",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00159"
+    },
+    {
+        "id": 160,
+        "title": "Identifying Key Classes for Initial Software Comprehension: Can We Do It Better?",
+        "artifact_url": "https://github.com/Welch123/iFit",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00160"
+    },
+    {
+        "id": 161,
+        "title": "Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7570960",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00161"
+    },
+    {
+        "id": 162,
+        "title": "Evidence Profiles for Validity Threats in Program Comprehension Experiments",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7038907",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00162"
+    },
+    {
+        "id": 163,
+        "title": "Developers\u2019 Visuo-spatial Mental Model and Program Comprehension",
+        "artifact_url": "https://github.com/abiUni/spatial_code_comprehension",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00163"
+    },
+    {
+        "id": 164,
+        "title": "Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension",
+        "artifact_url": "https://github.com/ReliableCoding/CREAM",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00164"
+    },
+    {
+        "id": 165,
+        "title": "SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics",
+        "artifact_url": "https://github.com/DehaiZhao/SeeHow",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00165"
+    },
+    {
+        "id": 166,
+        "title": "AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces",
+        "artifact_url": "https://github.com/SageSELab/AidUI",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00166"
+    },
+    {
+        "id": 167,
+        "title": "Carving UI Tests to Generate API Tests and API Specification",
+        "artifact_url": "https://github.com/apicarve/apicarver",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00167"
+    },
+    {
+        "id": 168,
+        "title": "Ex pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network",
+        "artifact_url": "https://github.com/franklinbill/ArchiDroid",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00168"
+    },
+    {
+        "id": 169,
+        "title": "Sustainability is Stratified: Toward a Better Theory of Sustainable Software Engineering",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.20731855.v1",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00169"
+    },
+    {
+        "id": 170,
+        "title": "DLInfer: Deep Learning with Static Slicing for Python Type Inference",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7575544",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00170"
+    },
+    {
+        "id": 171,
+        "title": "ViolationTracker: Building Precise Histories for Static Analysis Violations",
+        "artifact_url": "https://github.com/FudanSELab/violationTracker",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00171"
+    },
+    {
+        "id": 172,
+        "title": "Compiler Test-Program Generation via Memoized Configuration Search",
+        "artifact_url": "https://github.com/tju-chenyaosuo/MCS",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00172"
+    },
+    {
+        "id": 174,
+        "title": "Testing Database Engines via Query Plan Guidance",
+        "artifact_url": "https://zenodo.org/record/7553013",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00174"
+    },
+    {
+        "id": 175,
+        "title": "Testing Database Systems via Differential Query Execution",
+        "artifact_url": "https://github.com/tcse-iscas/dqetool",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00175"
+    },
+    {
+        "id": 176,
+        "title": "Analyzing the Impact of Workloads on Modeling the Performance of Configurable Software Systems",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7504284",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00176"
+    },
+    {
+        "id": 177,
+        "title": "Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software",
+        "artifact_url": "https://zenodo.org/record/7544891",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00177"
+    },
+    {
+        "id": 178,
+        "title": "Learning Deep Semantics for Test Completion",
+        "artifact_url": "https://github.com/EngineeringSoftware/teco",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00178"
+    },
+    {
+        "id": 179,
+        "title": "S K C ODER : A Sketch-based Approach for Automatic Code Generation",
+        "artifact_url": "https://github.com/LJ2lijia/SkCoder",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00179"
+    },
+    {
+        "id": 180,
+        "title": "An Empirical Comparison of Pre-Trained Models of Source Code",
+        "artifact_url": "https://github.com/NougatCA/FineTuner",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00180"
+    },
+    {
+        "id": 181,
+        "title": "On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot",
+        "artifact_url": "https://github.com/antonio-mastropaolo/robustness-copilot",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00181"
+    },
+    {
+        "id": 182,
+        "title": "Source Code Recommender Systems: The Practitioners\u2019 Perspective",
+        "artifact_url": "https://code-recommenders.github.io",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00182"
+    },
+    {
+        "id": 183,
+        "title": "Safe Low-Level Code Without Overhead is Practical",
+        "artifact_url": "https://github.com/dslab-epfl/tinynf",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00183"
+    },
+    {
+        "id": 184,
+        "title": "Sibyl: Improving Software Engineering Tools with SMT Selection",
+        "artifact_url": "https://anonymous.4open.science/r/sibyl-884E",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00184"
+    },
+    {
+        "id": 185,
+        "title": "CoCoSoDa: Effective Contrastive Learning for Code Search",
+        "artifact_url": "http://github.com/DeepSoftwareAnalytics/CoCoSoDa",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00185"
+    },
+    {
+        "id": 186,
+        "title": "Coverage Guided Fault Injection for Cloud Systems",
+        "artifact_url": "https://github.com/tcse-iscas/crashfuzz",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00186"
+    },
+    {
+        "id": 187,
+        "title": "D IVER : Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations",
+        "artifact_url": "https://github.com/kupl/Diver-Artifact",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00187"
+    },
+    {
+        "id": 188,
+        "title": "An Empirical Study of Deep Learning Models for Vulnerability Detection",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.20791240",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00188"
+    },
+    {
+        "id": 189,
+        "title": "DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection",
+        "artifact_url": "https://github.com/deepvd2022/deepvd2022",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00189"
+    },
+    {
+        "id": 190,
+        "title": "Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model",
+        "artifact_url": "https://github.com/CGCL-codes/VulBG",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00190"
+    },
+    {
+        "id": 191,
+        "title": "Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning",
+        "artifact_url": "https://github.com/AMPLE001/AMPLE",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00191"
+    },
+    {
+        "id": 192,
+        "title": "Does data sampling improve deep learning-based vulnerability detection? Yeas! and Nays!",
+        "artifact_url": "https://github.com/WIP2022/DataSampling4DLVD",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00192"
+    },
+    {
+        "id": 193,
+        "title": "Incident-aware Duplicate Ticket Aggregation for Cloud Systems",
+        "artifact_url": "https://github.com/OpsPAI/iPACK.git",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00193"
+    },
+    {
+        "id": 194,
+        "title": "Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction",
+        "artifact_url": "https://anonymous.4open.science/r/llm-testgen-artifact-2753",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00194"
+    },
+    {
+        "id": 195,
+        "title": "On the Reproducibility of Software Defect Datasets",
+        "artifact_url": "https://github.com/ucd-plse/on-the-reproducibility",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00195"
+    },
+    {
+        "id": 196,
+        "title": "Context-aware Bug Reproduction for Mobile Apps",
+        "artifact_url": "https://github.com/wuchiuwong/ContextAwareReproduction",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00196"
+    },
+    {
+        "id": 197,
+        "title": "Read It, Don\u2019t Watch It: Captioning Bug Recordings Automatically",
+        "artifact_url": "https://github.com/sidongfeng/CAPdroid",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00197"
+    },
+    {
+        "id": 198,
+        "title": "D UET CS: Code Style Transfer through Generation and Retrieval",
+        "artifact_url": "https://github.com/LUH-DBS/Binger/tree/main/DuetCS",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00198"
+    },
+    {
+        "id": 199,
+        "title": "On the Applicability of Language Models to Block-Based Programs",
+        "artifact_url": "https://doi.org/10.6084/m9.figshare.19382588.v1",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00199"
+    },
+    {
+        "id": 200,
+        "title": "MTTM: Metamorphic Testing for Textual Content Moderation Software",
+        "artifact_url": "http://ariselab.cse.cuhk.edu.hk/projects.html",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00200"
+    },
+    {
+        "id": 201,
+        "title": "Metamorphic Shader Fusion for Testing Graphics Shader Compilers",
+        "artifact_url": "https://sites.google.com/view/fshader/",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00201"
+    },
+    {
+        "id": 202,
+        "title": "MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform",
+        "artifact_url": "https://github.com/sola-st/MorphQ-Quantum-Qiskit-Testing-ICSE-23",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00202"
+    },
+    {
+        "id": 203,
+        "title": "Automating Code-Related Tasks Through Transformers: The Impact of Pre-training",
+        "artifact_url": "https://github.com/RosaliaTufano/impact_pre-training",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00203"
+    },
+    {
+        "id": 204,
+        "title": "Log Parsing with Prompt-based Few-shot Learning",
+        "artifact_url": "https://github.com/LogIntelligence/LogPPT",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00204"
+    },
+    {
+        "id": 205,
+        "title": "Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning",
+        "artifact_url": "https://github.com/prompt-learning/cedar",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00205"
+    },
+    {
+        "id": 206,
+        "title": "An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7555469",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00206"
+    },
+    {
+        "id": 207,
+        "title": "ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning",
+        "artifact_url": "https://sites.google.com/view/contrabert",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00207"
+    },
+    {
+        "id": 208,
+        "title": "DStream: A Streaming-Based Highly Parallel IFDS Framework",
+        "artifact_url": "https://github.com/DStream-project",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00208"
+    },
+    {
+        "id": 209,
+        "title": "(Partial) Program Dependence Learning",
+        "artifact_url": "https://github.com/deeppda-icse23/DeepPDA/",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00209"
+    },
+    {
+        "id": 210,
+        "title": "MirrorTaint: Practical Non-intrusive Dynamic Taint Tracking for JVM-based Microservice Systems",
+        "artifact_url": "https://github.com/MirrorTaint/MirrorTaint",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00210"
+    },
+    {
+        "id": 211,
+        "title": "V UL G EN : Realistic Vulnerability Generation Via Pattern Mining and Deep Learning",
+        "artifact_url": "https://zenodo.org/records/7569854",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00211"
+    },
+    {
+        "id": 212,
+        "title": "Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects",
+        "artifact_url": "https://sites.google.com/view/icse23remediation",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00212"
+    },
+    {
+        "id": 213,
+        "title": "Automated Black-box Testing of Mass Assignment Vulnerabilities in RESTful APIs",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7348518",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00213"
+    },
+    {
+        "id": 214,
+        "title": "CoLeFunDa: Explainable Silent Vulnerability Fix Identification",
+        "artifact_url": "https://figshare.com/s/840e1fb94bd972829c80",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00214"
+    },
+    {
+        "id": 215,
+        "title": "Finding Causally Different Tests for an Industrial Control System",
+        "artifact_url": "https://github.com/yuqiChen94/Causally-Different-Attacks/",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00215"
+    },
+    {
+        "id": 216,
+        "title": "Doppelg \u00a8anger Test Generation for Revealing Bugs in Autonomous Driving Software",
+        "artifact_url": "https://doi.org/10.5281/zenodo.7575582",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00216"
+    },
+    {
+        "id": 217,
+        "title": "Generating Realistic and Diverse Tests for LiDAR-Based Perception Systems",
+        "artifact_url": "https://github.com/less-lab-uva/semLidarFuzz",
+        "doi_url": "https://doi.org/10.1109/ICSE48619.2023.00217"
+    }
+]
