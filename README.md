@@ -100,7 +100,7 @@ A few sample papers evaluated were:
 | Name        | Role                    | GitHub                                      | LinkedIn                                      | Photo Preview                         |
 |-------------|-------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------|
 | **Iyana Jones**  | Project Lead             | [Github](https://github.com/Iyana1127)      | [Linkedin](linkedin.com/in/iyana-jones-0771b7224)     | ![](Iyana)  |
-| **Aaliyah Lockett**  | Experiment Engineer      | [Github](https://github.com/AaliyahKam)        | [Linkedin](https://www.linkedin.com/in/aaliyah-lockett001)     | ![](AaliyahL)    |
+| **Aaliyah Lockett**  | Experiment Engineer      | [Github](https://github.com/AaliyahKam)        | [Linkedin](https://www.linkedin.com/in/aaliyah-lockett001)     | ![](AaliyahL.png)    |
 | **Arghavan Noori**  | Model Analyst            | [Github](https://github.com/arghavxn)        | [Linkedin](https://www.linkedin.com/in/arghavan-noori)     | ![](Arghavan)  |
 | **Holy Agyei** | Portal Developer         | [Github](https://github.com/holly-agyei)      | [Linkedin](https://www.linkedin.com/in/holly-agyei/)   | ![](Holy)  |
 | **Copernic Mensah**   | Poster & Presenter       | [Github](https://github.com/notcopernicus)          | [Linkedin](https://www.linkedin.com/in/copernic-mensah-5b4282316/)       | ![](Copernic)   |
