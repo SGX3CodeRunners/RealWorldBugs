@@ -99,7 +99,7 @@ A few sample papers evaluated were:
 
 | Name        | Role                    | GitHub                                      | LinkedIn                                      | Photo Preview                         |
 |-------------|-------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------|
-| **Iyana Jones**  | Project Lead             | [Github](https://github.com/Iyana1127)      | [linkedin](linkedin.com/in/iyana-jones-0771b7224)     | ![](team_photos/alice.jpg)  |
+| **Iyana Jones**  | Project Lead             | [Github](https://github.com/Iyana1127)      | [Linkedin](linkedin.com/in/iyana-jones-0771b7224)     | ![](team_photos/alice.jpg)  |
 | **Aaliyah Lockett**  | Experiment Engineer      | [Github](https://github.com/AaliyahKam)        | [Linkedin](https://www.linkedin.com/in/aaliyah-lockett001)     | ![](team_photos/ben.jpg)    |
 | **Arghavan Noori**  | Model Analyst            | [Github](https://github.com/arghavxn)        | [Linkedin](https://linkedin.com/in/chloekim)     | ![](team_photos/chloe.jpg)  |
 | **Holy Agyei** | Portal Developer         | [Github](https://github.com/holly-agyei)      | [Linkedin](https://www.linkedin.com/in/holly-agyei/)   | ![](team_photos/david.jpg)  |
