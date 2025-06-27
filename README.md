@@ -99,11 +99,11 @@ A few sample papers evaluated were:
 
 | Name        | Role                    | GitHub                                      | LinkedIn                                      | Photo Preview                         |
 |-------------|-------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------|
-| **Alice Doe**  | Project Lead             | [@alice-doe](https://github.com/alice-doe)      | [linkedin.com/in/alicedoe](https://linkedin.com/in/alicedoe)     | ![](team_photos/alice.jpg)  |
-| **Ben Smith**  | Experiment Engineer      | [@bensmith](https://github.com/bensmith)        | [linkedin.com/in/bensmith](https://linkedin.com/in/bensmith)     | ![](team_photos/ben.jpg)    |
-| **Chloe Kim**  | Model Analyst            | [@chloekim](https://github.com/chloekim)        | [linkedin.com/in/chloekim](https://linkedin.com/in/chloekim)     | ![](team_photos/chloe.jpg)  |
-| **David Park** | Portal Developer         | [@davidpark](https://github.com/davidpark)      | [linkedin.com/in/davidpark](https://linkedin.com/in/davidpark)   | ![](team_photos/david.jpg)  |
-| **Ella Ray**   | Poster & Docs Lead       | [@ellaray](https://github.com/ellaray)          | [linkedin.com/in/ellaray](https://linkedin.com/in/ellaray)       | ![](team_photos/ella.jpg)   |
+| **Iyana Jones**  | Project Lead             | [@Github](https://github.com/Iyana1127)      | [linkedin.com/in/iyana-jones-0771b7224](https://linkedin.com/in/alicedoe)     | ![](team_photos/alice.jpg)  |
+| **Aaliyah Lockett**  | Experiment Engineer      | [@Github](https://github.com/AaliyahKam)        | [https://www.linkedin.com/in/aaliyah-lockett001](https://linkedin.com/in/bensmith)     | ![](team_photos/ben.jpg)    |
+| **Arghavan Noori**  | Model Analyst            | [@Github](https://github.com/arghavxn)        | [linkedin.com/in/chloekim](https://linkedin.com/in/chloekim)     | ![](team_photos/chloe.jpg)  |
+| **Holy Agyei** | Portal Developer         | [@Github](https://github.com/holly-agyei)      | [https://www.linkedin.com/in/holly-agyei/](https://linkedin.com/in/davidpark)   | ![](team_photos/david.jpg)  |
+| **Copernic Mensah**   | Poster & Presenter       | [@Github](https://github.com/notcopernicus)          | [https://www.linkedin.com/in/copernic-mensah-5b4282316/](https://linkedin.com/in/ellaray)       | ![](team_photos/ella.jpg)   |
 
 ---
 
