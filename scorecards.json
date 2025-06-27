@@ -1,0 +1,1142 @@
+{
+    "logan2024megammap.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/pnorbert/adiosvm, https://github.com/grc-iit/mega"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Responsibility_in_Context_On_Applicability_of_Slicing_in_Semantic_Regression_Analysis_1.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 1,
+            "notes": "Found keyword: github.com"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "paper_4.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 1,
+            "notes": "Found keyword: source code"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "shen-sc24-llamp.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 1,
+            "notes": "Found keyword: source code"
+        },
+        "Availability of Datasets": {
+            "score": 0,
+            "notes": ""
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "MorphQ__Metamorphic_Testing_of_the_Qiskit_Quantum_Computing_Platform.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/Qiskit/qiskit"
+        },
+        "Availability of Datasets": {
+            "score": 2,
+            "notes": "Found potential dataset URL(s): https://figshare.com/s/dd0d4af20fd6e06148a3"
+        },
+        "Computer Requirements": {
+            "score": 1,
+            "notes": "Found keyword: OS. Manual check needed for clarity and reasonableness."
+        },
+        "GPU Requirements": {
+            "score": 1,
+            "notes": "Found keyword: GPU. Manual check needed for specific requirements."
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": "Requires analysis of associated code repository documentation."
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": "Requires attempting to set up and run the code."
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": "Requires attempting to reproduce results and checking for badges/claims."
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "SC24-SPARC-RPA.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/SPARC-RPA-SC/SPARC-"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: zenodo"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Reachable_Coverage_Estimating_Saturation_in_Fuzzing.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/ossf/fuzz-introspector, https://github.com/google/AFL"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: zenodo"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "paper_12.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 1,
+            "notes": "Found keyword: bitbucket.org"
+        },
+        "Availability of Datasets": {
+            "score": 0,
+            "notes": ""
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "sc24_lorastencil.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/HPHEX/LoRAStencil."
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: data set"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Learning_Deep_Semantics_for_Test_Completion_1.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/EngineeringSoftware/teco., https://github.com/javaparser/javaparser."
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Retrieval_Based_Prompt_Selection_for_Code_Related_Few_Shot_Learning.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/RaRe-Technologies/gensim, https://github.com/prompt-learning/cedar"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "paper_7.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/fmperf-project/fmperf., https://github.com/IBM/LLM-performance-prediction."
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Incident_aware_Duplicate_Ticket_Aggregation_for_Cloud_Systems.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 1,
+            "notes": "Found keyword: github.com"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Explaining_Software_Bugs_Leveraging_Code_Structures_in_Neural_Machine_Translation_2.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/scilab/scilab, https://github.com/scilab/scilab"
+        },
+        "Availability of Datasets": {
+            "score": 0,
+            "notes": ""
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "P_Y_E_VOLVE___Automating_Frequent_Code_Changes_in_Python_ML_Systems.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/google/pytype"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "paper_3.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/kamping-site/kamping, https://github.com/rabauke/mpl"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: data set"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Automated_Repair_of_Programs_from_Large_Language_Models.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 1,
+            "notes": "Found keyword: github.com"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "SC24__MCBound_Framework.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 1,
+            "notes": "Found keyword: repository"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Revisiting_Neuron_Coverage_for_DNN_Testing__A_Layer_Wise_and_Distribution_Aware_Criterion.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/Yuanyuan-Yuan/NeuraL-Coverage, https://github.com/Yuanyuan-Yuan/NeuraL-Coverage."
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "2024SC-M3XU.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/NVIDIA/cutlass"
+        },
+        "Availability of Datasets": {
+            "score": 0,
+            "notes": ""
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "_Partial__Program_Dependence_Learning.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/deeppda-icse23/DeepPDA"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Hatanpaeae_GB24_MProtDPO-AuroraDev.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/argonne-lcf/Megatron-DeepSpeed"
+        },
+        "Availability of Datasets": {
+            "score": 0,
+            "notes": ""
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "paper_1.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/kamping-site/kamping, https://github.com/rabauke/mpl"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: data set"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "paper_5.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/PerfVec/PerfVec., https://github.com/features/copilot"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "sc24_longexposure.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/HPHEX/LongExposure., https://github.com/tatsu-lab/stanford"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "KNOD__Domain_Knowledge_Distilled_Tree_Decoder_for_Automated_Program_Repair.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/c2nes/javalang, https://github.com/javaparser/javaparser"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Impact_of_Code_Language_Models_on_Automated_Program_Repair_1.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/lin-tan/clm"
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "TAINT_M_INI___Detecting_Flow_of_Sensitive_Data_in_Mini_Programs_with_Static_Taint_Analysis.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/OSUSecLab/TaintMini."
+        },
+        "Availability of Datasets": {
+            "score": 1,
+            "notes": "Found keyword: dataset"
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "Detecting_Isolation_Bugs_via_Transaction_Oracle_Construction.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/ept/hermitage, https://github.com/anse1/sqlsmith"
+        },
+        "Availability of Datasets": {
+            "score": 0,
+            "notes": ""
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    },
+    "GameRTS__A_Regression_Testing_Framework_for_Video_Games.pdf": {
+        "Paper Availability": {
+            "score": 1,
+            "notes": "PDF was successfully downloaded."
+        },
+        "Availability of Code and Software": {
+            "score": 2,
+            "notes": "Found potential repository URL(s): https://github.com/fstirlitz/luaparse"
+        },
+        "Availability of Datasets": {
+            "score": 0,
+            "notes": ""
+        },
+        "Computer Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "GPU Requirements": {
+            "score": 0,
+            "notes": ""
+        },
+        "Documentation Quality": {
+            "score": 0,
+            "notes": ""
+        },
+        "Ease of Setup": {
+            "score": 0,
+            "notes": ""
+        },
+        "Reproducibility of Results": {
+            "score": 0,
+            "notes": ""
+        },
+        "Overall Rating": {
+            "score": "N/A",
+            "notes": "Manual review required"
+        }
+    }
+}
