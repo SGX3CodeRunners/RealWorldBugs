@@ -1,139 +1,83 @@
-# RealWorldBugs
+# 🧪 CodeRunners — RealWorldBugs: A Reproducibility Showdown
 
-# 🧪 Project Plan: CodeRunners - Reproducibility Showdown
+Welcome to the CodeRunners' submission for HackHPC @ ADMI 2025. This project investigates the **reproducibility and openness of real-world research artifacts** from recent AI and HPC conferences by building and applying an automated scoring system.
 
-## Project Description
-
-This project aims to evaluate and compare the reproducibility of **all 189 papers** from ICSE 2023 and SC24 that focus on large language models (LLMs) for code understanding tasks such as code summarization, completion, translation, and bug prediction. Our goal is to understand how reproducible these research artifacts are and to present our findings visually.
-
-## Scope
-
-- Reproduce results from each of the 189 selected papers.
-- Score each paper on reproducibility factors including data availability, code accessibility, and ease of running experiments.
-- Create a comparative scorecard for all papers.
-- Build a public-facing web portal that presents reproducibility metrics, summaries, and visual comparisons.
-- Submit a poster summarizing our methodology and findings to Gateways 2025.
+🔗 GitHub Repository: [https://github.com/SGX3CodeRunners/RealWorldBugs](https://github.com/SGX3CodeRunners/RealWorldBugs)
 
 ---
 
-## Reproduction Process
+## 🎯 Project Overview
 
-To assess reproducibility across all papers:
+**Project Name**: A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization  
+**Objective**: Reproduce and evaluate 189 papers’ LLM-based code understanding results.  
+**Goal**: Build a central dashboard to track reproducibility status and score trends. Share findings via poster and web portal.
 
-1. **Paper Assignment:** Each team member selects or is assigned a subset of papers to evaluate.
-
-2. **Artifact Review:** For each paper:
-   - Check for available code repositories, datasets, and documentation.
-   - Note missing or incomplete components.
-   - Attempt to set up the environment (preferably in a virtual environment or Docker).
-   - Run key experiments or code segments.
-
-3. **Evaluation Logging:** Log your findings including:
-   - Setup and dependency issues
-   - Execution success or failure
-   - Comparison of outputs (if applicable)
-
-4. **Scorecard Entry:** Fill in a standardized scorecard for each paper covering:
-   - Paper accessibility
-   - Code availability
-   - Data availability
-   - First-run success
-   - Reproduction fidelity
-
-5. **Portal Integration:** Sync results to the team’s visualization portal for tracking and comparison.
 ---
-## 📋 Reproducibility Scorecard for HPC/AI Papers
-
-To evaluate the reproducibility of HPC/AI research papers in computer science and data science, a structured scorecard assesses technical artifacts, documentation quality, and environmental reproducibility. This framework is informed by recent reproducibility benchmarks and HPC/AI research challenges.
-
-### 🔢 Maximum Score: 100 Points
+## Poster Preview
+<p align="center"> <img src="poster_preview.png" alt="HackHPC Poster Preview" width="700"> </p>
 
 ---
 
-### 🧱 1. Code & Environment (40 points)
+## 📅 Key Milestones and Deliverables
 
-| Criteria | Points |
-|---------|--------|
-| **Code Availability & Quality** ||
-| Open-source license (MIT/APACHE/GPL) | 5 |
-| Docker/Containerization (Dockerfile, Singularity) | 10 |
-| Dependency Management (requirements.txt, conda.yml, etc.) | 10 |
-| Build Instructions (Clear README with install/runtime) | 10 |
-| Specialized Hardware Support (e.g., SLURM, CUDA) | 5 |
-
-| **Reproducibility Testing** ||
-| CI/CD Pipelines (e.g., GitHub Actions) | 5 |
-| Version Control (repo with aligned commits) | 5 |
+| Milestone           | Description                                   | Due Date | Deliverables                            |
+|---------------------|-----------------------------------------------|----------|-----------------------------------------|
+| Day 1 – Kickoff     | Assign papers, set up repo, define rubric     | ✅       | Team roles, README, paper list          |
+| Day 2 – Artifact Setup | Clone/test initial papers                  | ✅       | Logs, notes, environment specs          |
+| Day 3 – Scorecard   | Finalize format and score 25–50 papers        | ✅       | Draft dashboard, metrics                |
+| Day 4 – Portal Build| Visualize results and polish                  | ✅       | Flask/Streamlit site, poster draft      |
+| Day 5 – Final Submit| Finalize and present                          | ✅       | Poster, bio page, submission repo       |
 
 ---
 
-### 📑 2. Documentation & Transparency (30 points)
+## 🧪 Evaluation Framework
 
-| Criteria | Points |
-|---------|--------|
-| **Artifact Documentation** ||
-| Comprehensive README (includes paper claims, setup) | 10 |
-| API/Data Schema Docs (Swagger/OpenAPI/comments) | 5 |
-| Reproducibility Badge (ACM Artifacts, FAIR, etc.) | 5 |
+### 📌 Reproducibility Criteria
 
-| **Reproducibility Claims** ||
-| Runtime Instructions (e.g., run.sh) | 5 |
-| Result Validation (logs, checksums, outputs) | 5 |
+We assess each paper using the following points:
 
----
+- **Paper Accessibility**  
+  Status: `[Accessible / Partially Accessible / Not Accessible]`  
+  Notes: Clarity of access, licensing, PDF links.
 
-### 📊 3. Data & Model Reuse (20 points)
+- **Code Availability & Usability**  
+  Status: `[Runnable / With Issues / Not Shared]`  
+  Notes: Repo links, licensing, install steps.
 
-| Criteria | Points |
-|---------|--------|
-| Public Dataset Links (open URLs) | 10 |
-| Data Preprocessing Scripts (cleaning/normalization) | 5 |
-| Model Weights (Hugging Face/MLflow checkpoints) | 5 |
+- **Data Accessibility**  
+  Status: `[Findable / Requires Effort / Not Usable]`  
+  Notes: Dataset formats, URLs, preprocessing.
 
----
-
-### 🌐 4. Community Engagement (10 points)
-
-| Criteria | Points |
-|---------|--------|
-| Issue Tracking (e.g., GitHub Issues) | 5 |
-| Discussion Forum (Slack, Discord, Matrix) | 5 |
+- **First Code Run Attempt**  
+  Result: `[Success / Partial / Failed]`  
+  Notes: Errors, fixes, missing instructions.
 
 ---
 
-### 📈 Scoring Example
+## 📊 Reproducibility Scorecard (8 Criteria × 1–5 Scale)
 
-| Category               | Max Points | Example Score | %
-|------------------------|------------|----------------|------|
-| Code & Environment     | 40         | 28             | 70% |
-| Documentation          | 30         | 22             | 73% |
-| Data & Model Reuse     | 20         | 15             | 75% |
-| Community Engagement   | 10         | 8              | 80% |
-| **Total**              | **100**    | **73/100**     | **73%** |
+| Category                | 1 (Poor)                         | 5 (Excellent)                         |
+|------------------------|----------------------------------|----------------------------------------|
+| **Code Access**        | No code provided                 | GitHub repo with license               |
+| **Environment Setup**  | No install instructions          | Docker or venv setup                   |
+| **Dependency Details** | No requirements mentioned        | requirements.txt, pipfile, etc.        |
+| **Data Access**        | No dataset access                | Public URL, licensing clear            |
+| **Result Verification**| No results                       | Logs, eval metrics shown               |
+| **Reproduction**       | No run instructions              | run.sh, notebooks, containers          |
+| **Citation Quality**   | No reference                     | DOI, BibTeX, or arXiv                  |
+| **Testability**        | No testing tools                 | test dir, pytest, CI/CD badge          |
+
+> 🔢 **Max Score**: 40 points → Very Low, Low, Moderate, High, Excellent
 
 ---
 
-## Evaluation Framework
-
-### Reproducibility Criteria
-
-For each paper, we assess:
-
-- **Paper Accessibility**
-  - Status: [Accessible/Partially Accessible/Not Accessible]
-  - Notes: How easy is it to access and interpret the work?
-
-- **Code Availability and Usability**
-  - Status: [Shared and Runnable / Shared with Issues / Not Shared]
-  - Notes: Where is it hosted (e.g., GitHub)? Does it work out of the box?
-
-- **Data Accessibility**
-  - Status: [Findable and Usable / Requires Effort / Not Usable]
-  - Notes: Formats, licensing, preprocessing steps
-
-- **First Code Run Attempt**
-  - Result: [Success / Partial Success / Failure]
-  - Notes: Error messages, manual fixes, missing steps
+## ✅ Sample Papers Evaluated
+A few sample papers evaluated were: 
+- [HistFuzz](https://github.com/CGCL-codes/HistFuzz)
+- [CCRep](https://github.com/ZJU-CTAG/CCRep)
+- [CodeGenEval (Zenodo)](https://doi.org/10.5281/zenodo.7037673)
+- [EXO Paravirtualization](https://github.com/nicexlab/exo)
+- [Multicast-Based Allgather](https://github.com/spcl/multicast-based-allgather)
 
 ---
 
@@ -149,24 +93,15 @@ We welcome contributors! Team members and external collaborators are encouraged 
 Submit a pull request or open an issue to get involved.
 
 ---
+## 👥 Meet the Team
 
-# Project Overview and Task Deliverables
-
-## 1. Project Overview
-
-- **Project Name:** A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization
-- **Objective:** Reproduce and evaluate 189 papers’ LLM-based code understanding results.
-- **Goal:** Build a central dashboard to track reproducibility status and score trends. Share findings via poster and web portal.
-
-## 2. Key Milestones and Deliverables
-
-| Milestone | Description | Due Date | Deliverables |
-|----------|-------------|----------|--------------|
-| Day 1 – Kickoff | Assign papers, set up repo, define evaluation rubric | Day 1 | Team roles, README, paper list |
-| Day 2 – Artifact Setup | Begin cloning/test runs on initial papers | Day 2 | Logs, notes, environment specs |
-| Day 3 – Scorecard Draft | Finalize scorecard format, enter 25–50 papers | Day 3 | Preliminary dashboard, draft metrics |
-| Day 4 – Portal Build | Build portal to visualize findings | Day 4 | Streamlit/Flask site, poster draft |
-| Day 5 – Final Submit | Submit poster, present work, publish results | Day 5 | Final slides, PDF poster, team bio page |
+| Name        | Role                    | GitHub                                      | LinkedIn                                      | Photo Preview                         |
+|-------------|-------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------|
+| **Alice Doe**  | Project Lead             | [@alice-doe](https://github.com/alice-doe)      | [linkedin.com/in/alicedoe](https://linkedin.com/in/alicedoe)     | ![](team_photos/alice.jpg)  |
+| **Ben Smith**  | Experiment Engineer      | [@bensmith](https://github.com/bensmith)        | [linkedin.com/in/bensmith](https://linkedin.com/in/bensmith)     | ![](team_photos/ben.jpg)    |
+| **Chloe Kim**  | Model Analyst            | [@chloekim](https://github.com/chloekim)        | [linkedin.com/in/chloekim](https://linkedin.com/in/chloekim)     | ![](team_photos/chloe.jpg)  |
+| **David Park** | Portal Developer         | [@davidpark](https://github.com/davidpark)      | [linkedin.com/in/davidpark](https://linkedin.com/in/davidpark)   | ![](team_photos/david.jpg)  |
+| **Ella Ray**   | Poster & Docs Lead       | [@ellaray](https://github.com/ellaray)          | [linkedin.com/in/ellaray](https://linkedin.com/in/ellaray)       | ![](team_photos/ella.jpg)   |
 
 ---
 
