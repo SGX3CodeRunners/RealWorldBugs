@@ -99,11 +99,11 @@ A few sample papers evaluated were:
 
 | Name        | Role                    | GitHub                                      | LinkedIn                                      | Photo Preview                         |
 |-------------|-------------------------|----------------------------------------------|-----------------------------------------------|----------------------------------------|
-| **Iyana Jones**  | Project Lead             | [Github](https://github.com/Iyana1127)      | [Linkedin](linkedin.com/in/iyana-jones-0771b7224)     | ![](team_photos/alice.jpg)  |
-| **Aaliyah Lockett**  | Experiment Engineer      | [Github](https://github.com/AaliyahKam)        | [Linkedin](https://www.linkedin.com/in/aaliyah-lockett001)     | ![](team_photos/ben.jpg)    |
-| **Arghavan Noori**  | Model Analyst            | [Github](https://github.com/arghavxn)        | [Linkedin](https://linkedin.com/in/chloekim)     | ![](team_photos/chloe.jpg)  |
-| **Holy Agyei** | Portal Developer         | [Github](https://github.com/holly-agyei)      | [Linkedin](https://www.linkedin.com/in/holly-agyei/)   | ![](team_photos/david.jpg)  |
-| **Copernic Mensah**   | Poster & Presenter       | [Github](https://github.com/notcopernicus)          | [Linkedin](https://www.linkedin.com/in/copernic-mensah-5b4282316/)       | ![](team_photos/ella.jpg)   |
+| **Iyana Jones**  | Project Lead             | [Github](https://github.com/Iyana1127)      | [Linkedin](linkedin.com/in/iyana-jones-0771b7224)     | ![](Iyana)  |
+| **Aaliyah Lockett**  | Experiment Engineer      | [Github](https://github.com/AaliyahKam)        | [Linkedin](https://www.linkedin.com/in/aaliyah-lockett001)     | ![](AaliyahL)    |
+| **Arghavan Noori**  | Model Analyst            | [Github](https://github.com/arghavxn)        | [Linkedin](https://www.linkedin.com/in/arghavan-noori)     | ![](team_photos/chloe.jpg)  |
+| **Holy Agyei** | Portal Developer         | [Github](https://github.com/holly-agyei)      | [Linkedin](https://www.linkedin.com/in/holly-agyei/)   | ![](Holy)  |
+| **Copernic Mensah**   | Poster & Presenter       | [Github](https://github.com/notcopernicus)          | [Linkedin](https://www.linkedin.com/in/copernic-mensah-5b4282316/)       | ![](Copernic)   |
 
 ---
 
